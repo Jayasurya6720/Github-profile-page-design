@@ -1,0 +1,63 @@
+body {
+    background-color: rgba(58, 89, 53, 0.319);
+}
+.container-fluid{
+        background-color: rgba(4, 22, 23, 0.861);
+        padding: 20px;
+         
+         
+}
+
+.fa {
+    color: aliceblue;
+    
+}
+H5 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bold;
+    display: inline;
+    color: aliceblue;
+    text-align:center;
+    margin-left: 45%;
+}
+.content {
+    background-color: rgba(4, 22, 23, 0.861) ;
+    margin-top: 45px;
+    height: 400px;
+    border-radius: 20px;
+    padding-right: 1px;
+    width: 240px;
+}
+.ch-bar {
+    height: 40px;
+    width: 80%;
+    margin-left: 20px;
+    margin-top: 45px;
+    border-radius: 10px;
+    padding-left: 20px;
+    color:  rgba(236, 244, 235, 0.697);
+    background-color: rgba(4, 22, 23, 0.861) ;
+    
+}
+.content2 {
+     margin-top: 40px;
+     width: 60%;
+    /* width: 150px; */
+    height: 100px;
+    border-radius: 10px;
+    background-color: rgba(4, 22, 23, 0.861) ;
+    
+    
+}
+
+.content3 {
+    width: 90%;
+    height: 150px;
+    margin-top: 40px;
+    border-radius: 10px;
+    background-color: rgba(4, 22, 23, 0.861) ;
+}
+::placeholder {
+    color: rgb(238, 241, 241);
+    font-family: 'Courier New', Courier, monospace;
+}
